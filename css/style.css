@@ -25,6 +25,10 @@ img {
   margin: 10px;
 }
 
+.carousel-inner {
+  margin-bottom: 10px;
+}
+
 .card-img-top {
   width: 100%;
   object-fit: cover;
